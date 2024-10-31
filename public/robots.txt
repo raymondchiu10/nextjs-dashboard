@@ -1,0 +1,18 @@
+# robots.txt for Nextjs-Dashboard project
+
+User-agent: *
+# Allow crawling of the homepage
+Allow: /
+
+# Disallow crawling of any API routes (for example, /api/)
+Disallow: /api/
+
+# Disallow crawling of any private pages or admin sections
+Disallow: /admin/
+Disallow: /private/
+
+# Allow crawling of images
+Allow: /images/
+
+# Sitemap URL
+# Sitemap: https://your-domain.com/sitemap.xml

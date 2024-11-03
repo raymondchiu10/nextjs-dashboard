@@ -2,16 +2,16 @@
   "pages": {
     "/_not-found/page": [
       "static/chunks/[root of the server]__b94e07._.css",
-      "static/chunks/_532f87._.js",
-      "static/chunks/app_layout_tsx_83c32e._.js",
-      "static/chunks/69fde_next_dist_compiled_react-dom_70226b._.js",
-      "static/chunks/69fde_next_dist_compiled_d00d32._.js",
-      "static/chunks/69fde_next_dist_client_10dc2e._.js",
-      "static/chunks/69fde_next_dist_fc20cd._.js",
+      "static/chunks/_a677fd._.js",
+      "static/chunks/app_layout_tsx_a4cc59._.js",
+      "static/chunks/195f1_next_dist_compiled_react-dom_e79286._.js",
+      "static/chunks/195f1_next_dist_compiled_12a983._.js",
+      "static/chunks/195f1_next_dist_client_3f95da._.js",
+      "static/chunks/195f1_next_dist_4e72ad._.js",
       "static/chunks/90823_@swc_helpers_cjs_6ab2e1._.js",
-      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bc4fcd._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_493bab._.js",
       "static/chunks/_c4c472._.js",
-      "static/chunks/_d658c5._.js"
+      "static/chunks/_812397._.js"
     ]
   }
 }
